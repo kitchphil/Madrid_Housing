@@ -1,0 +1,2677 @@
+city,district,latitude,longitude,neighbourhood,rent_price_€,sq_mt,bedrooms,bathrooms,type
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1200,105.0,3,2,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1200,148.0,3,2,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1200,130.0,4,1,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1350,110.0,2,1,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1100,84.0,2,1,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1150,110.0,4,3,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1050,90.0,3,2,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,900,60.0,3,2,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,950,110.0,3,1,rent
+Madrid,San Blas - Canillejas,40.42227,-3.60449,Rosas,1200,110.0,4,2,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,1400,90.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,1100,57.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,5750,875.0,6,2,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,2300,240.0,5,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,1200,110.0,2,3,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,2300,240.0,2,3,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,4000,340.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,3600,358.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,3700,370.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,1900,140.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.487,-3.72192,Mirasierra,1200,110.0,3,6,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,800,55.0,1,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,650,34.0,1,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1500,126.0,2,0,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1300,93.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,690,30.0,1,2,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1250,93.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1475,90.0,2,2,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,750,35.0,1,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,850,80.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,950,75.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1435,123.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1400,65.0,2,2,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,1100,80.0,2,1,rent
+Madrid,Arganzuela,40.39848,-3.69692,Delicias,650,46.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1600,135.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,950,48.0,2,0,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1000,90.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,2200,147.0,2,4,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1500,157.0,2,4,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1150,124.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1600,120.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,2500,140.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1200,53.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,2100,200.0,4,1,rent
+Madrid,Fuencarral - El Pardo,40.48486,-3.70343,La Paz,1750,100.0,6,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,750,40.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,700,26.0,1,0,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,760,35.0,1,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1300,78.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,795,50.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1300,55.0,4,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,850,45.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,825,50.0,1,3,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,600,200.0,2,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1100,70.0,4,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,700,48.0,2,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,945,52.0,2,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,790,45.0,4,3,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,750,37.0,3,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,800,38.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,950,43.0,2,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,670,32.0,4,0,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,760,40.0,1,2,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1050,62.0,4,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1500,148.0,1,3,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,1500,105.0,2,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,850,55.0,1,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,900,57.0,1,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,700,40.0,1,1,rent
+Madrid,Arganzuela,40.40613,-3.69695,Palos de Moguer,875,48.0,4,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,800,46.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1500,105.0,3,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1000,84.0,3,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1500,105.0,3,6,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1350,85.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,990,88.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,2400,120.0,4,4,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,550,25.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1950,161.0,4,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,900,65.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1250,71.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1600,3.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,900,68.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1300,100.0,3,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1600,80.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1300,80.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1900,117.0,3,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,2100,120.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1950,120.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1050,53.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1100,69.0,3,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1300,70.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,800,41.0,4,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,2100,150.0,1,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1900,115.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,990,63.0,1,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1100,85.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1000,76.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1035,63.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,790,54.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1700,124.0,3,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1300,90.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,900,37.0,3,0,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1850,100.0,6,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1700,90.0,3,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1650,55.0,1,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1500,106.0,2,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1500,160.0,1,3,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1200,95.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,900,63.0,3,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1200,56.0,4,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,2600,200.0,2,3,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1100,92.0,7,8,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1000,50.0,2,1,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,700,50.0,4,2,rent
+Madrid,Chamartín,40.44317,-3.67298,Prosperidad,1095,88.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2000,123.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,700,50.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,760,30.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2600,104.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1250,50.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2200,185.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1200,61.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1150,95.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,900,60.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,700,50.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,850,52.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,800,72.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,890,70.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,820,52.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1200,95.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2700,178.0,3,5,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1350,90.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1500,100.0,1,4,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1300,71.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3500,190.0,1,3,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,700,40.0,2,3,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1450,70.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1800,60.0,4,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,895,39.0,5,3,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2300,150.0,2,3,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2300,140.0,5,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2450,100.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3500,190.0,4,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2500,229.0,0,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,850,72.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,950,70.0,1,3,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2800,115.0,5,4,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,6000,430.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,780,45.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,4500,250.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,525,23.0,1,4,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,4500,270.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,500,21.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,850,50.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,850,57.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3000,170.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1990,104.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2600,170.0,4,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2950,123.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2200,40.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1300,79.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1800,130.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2300,153.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3000,206.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1150,80.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1100,60.0,1,4,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2650,160.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2750,180.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3200,205.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1500,55.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,1100,34.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,750,45.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,3700,240.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2500,150.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,2700,178.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,950,46.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,850,56.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,770,35.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,750,40.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.43178,-3.71738,Argüelles,780,45.0,3,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,690,35.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,680,35.0,1,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1300,81.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,64.0,1,5,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1250,94.0,3,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1290,96.0,0,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,110.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1000,70.0,5,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,850,55.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,850,55.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1850,84.0,0,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2000,95.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1100,75.0,1,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,900,70.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,725,43.0,3,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1000,60.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2400,220.0,1,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1350,67.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1500,120.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1300,89.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,750,23.0,2,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1500,91.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1100,60.0,3,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,800,60.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,58.0,3,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1300,84.0,1,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1390,86.0,4,7,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,950,54.0,2,4,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,69.0,5,7,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1100,83.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1300,85.0,2,6,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1250,40.0,2,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,800,56.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2600,168.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2300,127.0,2,4,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,69.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1100,60.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1100,85.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,850,40.0,2,4,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1050,65.0,4,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1750,145.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2950,194.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,800,60.0,3,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1600,80.0,2,4,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1650,120.0,1,4,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,850,50.0,3,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1250,65.0,1,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,900,53.0,4,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1650,120.0,2,0,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1650,77.0,1,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1400,65.0,0,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1200,72.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1690,92.0,1,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,850,52.0,1,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1400,88.0,2,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,3500,340.0,4,7,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1900,121.0,3,3,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1750,145.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,2200,120.0,3,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,600,35.0,4,1,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,890,50.0,2,2,rent
+Madrid,Salamanca,40.43058,-3.66618,Guindalera,1850,173.0,3,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,650,45.0,1,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,750,65.0,2,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,650,45.0,1,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,650,46.0,1,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,780,51.0,1,3,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,950,82.0,3,2,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,695,65.0,2,1,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,650,65.0,3,2,rent
+Madrid,Usera,40.39022,-3.70702,Moscardó,860,40.0,3,2,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,900,67.0,2,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,700,53.0,2,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,650,32.0,1,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,800,55.0,1,3,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,790,45.0,4,3,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,825,80.0,3,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,850,60.0,2,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,695,60.0,1,1,rent
+Madrid,Carabanchel,40.3886,-3.7378,Vista Alegre,980,77.0,1,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,950,80.0,2,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1100,98.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1100,102.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,860,75.0,1,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1100,89.0,2,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,850,78.0,1,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,750,35.0,1,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,650,28.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1200,100.0,4,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1500,110.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,650,28.0,2,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,895,40.0,2,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,650,28.0,1,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1000,73.0,4,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,750,45.0,5,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1420,85.0,1,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,750,30.0,1,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,800,56.0,1,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1100,113.0,2,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,950,91.0,2,3,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,750,38.0,2,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,800,59.0,5,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,750,70.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,775,55.0,4,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,700,50.0,1,2,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,680,65.0,3,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,700,56.0,1,3,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,800,80.0,1,1,rent
+Madrid,Ciudad Lineal,40.41636,-3.62498,Pueblo Nuevo,1000,120.0,2,1,rent
+Madrid,Latina,40.37881,-3.7819,Aguilas,725,65.0,2,1,rent
+Madrid,Latina,40.37881,-3.7819,Aguilas,790,66.0,3,1,rent
+Madrid,Latina,40.37881,-3.7819,Aguilas,800,73.0,4,1,rent
+Madrid,Latina,40.37881,-3.7819,Aguilas,695,60.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,30.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,500,15.0,1,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,38.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,950,60.0,2,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,30.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2000,124.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,55.0,1,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,45.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1200,70.0,2,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,790,39.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,930,62.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,800,45.0,2,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,915,64.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,850,43.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1040,70.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,790,45.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,725,41.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2750,144.0,2,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2900,140.0,2,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,990,48.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,690,35.0,3,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,600,30.0,4,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1400,85.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,35.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,895,45.0,3,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1400,50.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,780,41.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1400,97.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,21.0,1,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,34.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,3500,70.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2750,144.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,690,30.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,850,75.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,600,32.0,3,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,900,75.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1650,160.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1795,100.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,39.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,845,74.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,950,55.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,820,55.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,995,52.0,1,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1100,82.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,35.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,77.0,3,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,525,20.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2350,90.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,850,55.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,620,26.0,3,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1840,120.0,5,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1300,74.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1000,45.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,620,20.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,780,1.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,640,1.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1100,65.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,600,22.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1800,126.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,900,50.0,1,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,40.0,1,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,995,37.0,5,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,25.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2105,90.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,740,1.0,5,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1300,75.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1250,78.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,35.0,5,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1600,101.0,1,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2200,162.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,900,65.0,2,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1000,1.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1500,106.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,40.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1475,60.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1295,60.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,28.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2070,80.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1795,90.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,600,45.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1495,60.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1895,90.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1400,60.0,3,0,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1900,185.0,2,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,490,25.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,830,1.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,950,58.0,3,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1400,82.0,6,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1200,75.0,4,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,850,40.0,2,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,850,43.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,45.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1600,60.0,2,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1350,93.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1200,50.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1595,70.0,3,5,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,500,33.0,2,4,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,39.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,430,14.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,900,65.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,950,56.0,3,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,37.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,30.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,35.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1600,71.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,770,42.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,750,35.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,650,56.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,600,25.0,5,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,2300,209.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1500,83.0,1,2,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1200,68.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1700,105.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1600,95.0,3,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1099,72.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1050,51.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1100,75.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,700,25.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1200,90.0,1,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,500,25.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1290,110.0,2,3,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1100,70.0,4,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,1160,62.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,910,58.0,2,1,rent
+Madrid,Centro,40.40892,-3.69697,Embajadores,925,47.0,2,2,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,900,50.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,750,45.0,1,0,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1375,90.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1200,65.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1200,85.0,2,2,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,650,38.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1090,91.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,995,72.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1500,96.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1250,95.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1200,140.0,1,5,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1400,225.0,2,3,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,975,45.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1500,116.0,1,3,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1250,113.0,2,4,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1360,107.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1400,119.0,1,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1400,105.0,3,2,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,780,60.0,4,3,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1225,90.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,775,50.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1600,112.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1200,60.0,2,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,590,34.0,3,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,550,22.0,3,1,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,1600,80.0,5,2,rent
+Madrid,Arganzuela,40.40097,-3.70109,Acacias,695,38.0,3,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1100,80.0,2,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1500,136.0,4,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1110,85.0,2,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,900,67.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1100,62.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,950,56.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1100,70.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1800,170.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,850,85.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1300,99.0,4,6,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,900,67.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,2250,130.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1150,77.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1450,100.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1150,58.0,2,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1125,50.0,3,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,950,88.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,2250,130.0,1,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1400,100.0,3,4,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1300,115.0,2,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,970,70.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,900,68.0,2,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1100,94.0,3,4,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1350,113.0,2,6,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,949,82.0,2,2,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,1079,84.0,1,1,rent
+Madrid,Hortaleza,40.4870151,-3.6598459,Sanchinarro,850,67.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2500,129.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2200,112.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,895,55.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3100,231.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2600,120.0,2,0,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,80.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2000,110.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,900,55.0,1,4,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1000,69.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2950,194.0,5,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1000,57.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2300,188.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1300,78.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,110.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1900,85.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1100,52.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2500,125.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1300,80.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1050,70.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2100,130.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1400,80.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1400,80.0,3,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2500,178.0,4,4,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1700,109.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2200,110.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,60.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1950,125.0,1,0,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,650,30.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,900,45.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,80.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1300,75.0,5,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2000,110.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1750,126.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2700,220.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1300,60.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,70.0,3,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2600,143.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1100,58.0,1,5,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2390,159.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1750,109.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1100,50.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2300,137.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1400,105.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2750,105.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2700,140.0,4,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2400,120.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,975,61.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,925,50.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2100,73.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2500,138.0,5,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,70.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2400,150.0,2,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3800,200.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2200,100.0,1,0,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1300,80.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,990,70.0,5,0,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,990,42.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2350,180.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1150,72.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1600,70.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,114.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3000,100.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2100,168.0,4,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,60.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2950,194.0,3,8,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,114.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,64.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1575,85.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1350,60.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1950,59.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,68.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2700,185.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1980,97.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,4000,250.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2395,180.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2300,153.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1700,73.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2250,105.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,950,45.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,80.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,850,30.0,3,4,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1900,78.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,890,50.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1900,140.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3500,204.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1500,65.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2200,128.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1175,38.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1700,99.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,95.0,4,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1100,50.0,5,0,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2000,108.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,105.0,2,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3300,240.0,2,4,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1800,97.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2700,185.0,3,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1200,55.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2400,153.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,4500,140.0,4,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,3500,75.0,1,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,4000,230.0,1,3,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,950,45.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1600,124.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2600,72.0,6,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,2100,110.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,950,65.0,3,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,800,55.0,2,2,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,1000,70.0,1,1,rent
+Madrid,Salamanca,40.42585,-3.67674,Goya,925,60.0,2,3,rent
+Madrid,San Blas - Canillejas,40.4268,-3.62007,Amposta,750,60.0,3,1,rent
+Madrid,San Blas - Canillejas,40.4268,-3.62007,Amposta,750,55.0,3,1,rent
+Madrid,San Blas - Canillejas,40.4268,-3.62007,Amposta,740,53.0,1,1,rent
+Madrid,San Blas - Canillejas,40.4268,-3.62007,Amposta,650,60.0,2,2,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1200,85.0,2,2,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1200,100.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1900,100.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,3400,308.0,4,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1150,72.0,2,3,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1600,95.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1400,4.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1200,90.0,3,3,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1300,101.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1200,120.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1100,86.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,900,1.0,2,3,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1300,123.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,1075,60.0,2,0,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,800,54.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.50613,-3.67381,Las Tablas,3800,600.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,900,60.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1800,118.0,4,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1250,75.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1950,170.0,3,7,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1120,49.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1000,80.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1100,73.0,2,3,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1900,75.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,880,47.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1700,92.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1300,90.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1155,59.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,790,41.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1000,45.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1700,50.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,80.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1130,58.0,2,5,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2400,100.0,2,3,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,575,13.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,900,49.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,870,45.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,995,62.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,550,15.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,800,30.0,2,3,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1800,60.0,4,4,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1700,109.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1004,39.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1900,100.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,475,1.0,3,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1100,40.0,4,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,80.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1600,55.0,4,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,900,48.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,70.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1400,40.0,4,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,3700,270.0,5,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,750,38.0,5,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,750,41.0,4,5,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1100,65.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1490,70.0,5,4,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,70.0,5,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1500,50.0,7,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,4400,250.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1300,65.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2300,100.0,2,0,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1290,81.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1000,41.0,3,4,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1500,100.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1700,110.0,6,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,51.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,750,37.0,4,0,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,780,40.0,3,5,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1600,126.0,3,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1500,117.0,2,0,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,720,40.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1100,89.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,900,48.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2650,209.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1300,100.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,850,65.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1100,50.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,930,45.0,1,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1900,120.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1200,70.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1400,70.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,920,65.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,3500,300.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,950,50.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,3500,225.0,1,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2600,220.0,3,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,790,45.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2700,102.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1450,96.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1800,85.0,2,1,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1400,50.0,1,6,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,2090,124.0,2,2,rent
+Madrid,Centro,40.41163,-3.70822,Palacio,1095,84.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,1800,156.0,4,3,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,750,52.0,2,3,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,900,80.0,1,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,800,43.0,4,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,1200,120.0,2,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,800,40.0,4,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,850,60.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,720,43.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,1100,90.0,2,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,780,48.0,3,4,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,825,44.0,2,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,1225,118.0,3,0,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,900,54.0,2,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,700,50.0,2,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,670,50.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,700,60.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,850,70.0,2,1,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,945,93.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,750,50.0,1,2,rent
+Madrid,San Blas - Canillejas,40.43036,-3.62729,Simancas,1275,100.0,3,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,3750,206.0,4,4,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,150.0,2,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1200,65.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1100,51.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1650,59.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2450,135.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1400,70.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,900,48.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2100,96.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1250,68.0,1,3,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,165.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2650,180.0,4,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1700,60.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,3000,194.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1600,60.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2700,155.0,3,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1950,87.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1000,69.0,4,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,900,47.0,3,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,3500,166.0,3,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,90.0,2,0,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2000,100.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1600,50.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1500,75.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1400,67.0,4,3,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2000,134.0,8,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2000,70.0,4,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,150.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2200,70.0,5,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1210,49.0,4,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1500,119.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1200,71.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,6500,116.0,3,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,3600,190.0,2,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1350,70.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1600,120.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,90.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1250,53.0,4,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1600,66.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1250,82.0,2,4,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1500,90.0,3,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1550,67.0,3,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1200,67.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1090,51.0,2,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1925,80.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1750,93.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1400,67.0,2,0,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1300,62.0,4,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1500,67.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1300,62.0,1,3,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,950,60.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1350,69.0,5,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1050,65.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1300,67.0,2,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1600,90.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2205,110.0,1,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1850,97.0,2,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2200,92.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,3500,190.0,4,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2000,115.0,2,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,950,48.0,3,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,2500,160.0,1,2,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1200,79.0,3,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,725,45.0,1,3,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,4400,169.0,4,1,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,950,35.0,1,6,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,995,70.0,2,3,rent
+Madrid,Salamanca,40.43374,-3.67797,Lista,1750,120.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,3200,491.0,5,5,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,18000,1.19,4,1,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,6000,761.0,4,3,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,1899,70.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,2800,260.0,1,4,rent
+Madrid,Moncloa - Aravaca,40.4739,-3.83562,El Plantío,2000,140.0,3,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1795,105.0,2,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1700,90.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,650,30.0,1,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2395,130.0,4,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,4950,383.0,2,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1600,100.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1800,69.0,2,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2975,207.0,2,3,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1300,70.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,3500,220.0,1,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2000,95.0,1,3,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1795,103.0,3,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2600,165.0,1,4,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1950,147.0,4,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2100,105.0,3,4,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1750,70.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1700,80.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1200,80.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1450,65.0,0,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1800,115.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,4000,280.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2900,157.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1150,75.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2600,164.0,1,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2000,119.0,3,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,4500,331.0,3,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1200,86.0,3,3,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1150,55.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,3800,262.0,4,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1700,85.0,2,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1100,55.0,2,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,3100,180.0,2,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1350,65.0,1,3,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1600,85.0,1,0,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1250,50.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1700,95.0,4,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,800,56.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1400,65.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1650,140.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2950,170.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1650,100.0,4,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1400,90.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2500,220.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1300,65.0,5,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1200,61.0,3,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2300,140.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,3900,170.0,3,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1600,74.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,5500,382.0,1,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2200,85.0,1,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1800,83.0,1,2,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1000,32.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1200,83.0,3,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1300,93.0,2,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,2500,150.0,3,1,rent
+Madrid,Chamartín,40.45446,-3.66849,Hispanoamérica,1450,100.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,710,40.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,1400,80.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,725,40.0,5,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,650,35.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,800,50.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,3000,230.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,2800,252.0,4,0,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,700,50.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,2800,250.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.46149,-3.71102,Valdezarza,2200,78.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,800,70.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,1600,128.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,5000,119.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,1250,85.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,920,55.0,1,0,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,2990,500.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,2250,173.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,765,57.0,1,3,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,1000,88.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,850,54.0,3,4,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,650,40.0,2,2,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,1300,101.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,3500,296.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,3700,440.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,2100,137.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.49223,-3.69226,Valverde,2500,220.0,2,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1100,95.0,3,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1250,70.0,2,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,825,40.0,2,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1250,67.0,1,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1050,64.0,3,5,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,890,45.0,1,0,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,800,25.0,1,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1475,90.0,1,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1450,84.0,5,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1400,100.0,3,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1000,40.0,5,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,2950,120.0,4,3,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1500,100.0,1,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1300,90.0,1,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1250,111.0,3,0,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1100,84.0,2,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1600,115.0,2,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,3500,240.0,1,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1100,57.0,2,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1100,100.0,2,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,750,60.0,3,2,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1400,65.0,3,3,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1650,85.0,1,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,800,65.0,1,1,rent
+Madrid,Salamanca,40.42639,-3.66674,Fuente del Berro,1100,67.0,1,3,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3900,180.0,0,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5000,278.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3350,95.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2300,159.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2400,120.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1475,55.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2400,120.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2800,93.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,130.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3900,200.0,5,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,750,50.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2100,134.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1450,70.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1390,65.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2900,200.0,4,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1500,70.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,850,40.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,70.0,4,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,4469,272.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2000,91.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,7500,226.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5850,250.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1995,150.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2700,110.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3200,88.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,7500,226.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5500,223.0,2,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2000,133.0,4,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1500,90.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,117.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3800,200.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3100,135.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5850,250.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2919,150.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,4400,250.0,6,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2000,84.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3900,267.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2000,82.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,130.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2600,140.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,126.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2300,118.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,145.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2300,159.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,790,40.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1725,74.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1900,81.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,128.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,125.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2800,127.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,115.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1500,58.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,120.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2400,126.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1975,100.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1995,150.0,1,4,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,145.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2000,110.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,8000,240.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3007,146.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1590,68.0,2,5,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,115.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,100.0,6,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1900,70.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5000,250.0,1,6,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2400,120.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3700,213.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1850,100.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3200,210.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2600,140.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,7000,420.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3100,220.0,1,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,7500,226.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,4100,238.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5850,250.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2900,201.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1600,81.0,5,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1100,65.0,1,3,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2800,130.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1950,88.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,4900,200.0,5,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,5850,250.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1600,60.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2600,97.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3600,179.0,2,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,120.0,4,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2300,127.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,80.0,3,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2400,150.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,2.0,3,3,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2300,117.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1680,80.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,128.0,4,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1500,55.0,2,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1700,150.0,3,0,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2200,70.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,750,37.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1500,68.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,6500,300.0,3,4,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3500,212.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1100,70.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,950,50.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1400,90.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3400,160.0,2,3,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3650,250.0,2,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3000,150.0,2,5,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,120.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1900,120.0,1,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2050,80.0,2,3,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1400,63.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2100,100.0,3,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1000,35.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2500,150.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,1450,90.0,3,1,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,2700,149.0,2,4,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3200,192.0,1,2,rent
+Madrid,Salamanca,40.42818,-3.68229,Recoletos,3600,150.0,2,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1200,60.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,50.0,1,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,945,42.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1000,61.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1275,90.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,800,45.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,780,38.0,1,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2500,145.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2950,99.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,850,40.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2335,86.0,3,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2950,102.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,650,30.0,4,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1800,75.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,8500,350.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1250,66.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1100,45.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1150,75.0,4,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,54.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,850,46.0,0,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1800,105.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2000,120.0,4,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1000,38.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,785,40.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2200,100.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,690,27.0,3,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2200,150.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,600,30.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3900,147.0,2,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2800,180.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,32.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,54.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1200,50.0,2,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,750,30.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,795,40.0,1,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,4500,147.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,990,40.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1600,85.0,2,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2450,120.0,4,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1795,67.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,7500,290.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1700,76.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3800,240.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1150,60.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1300,76.0,2,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2200,115.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,4000,302.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3200,160.0,5,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1900,90.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2100,96.0,3,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1200,65.0,5,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1500,90.0,1,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1150,67.0,1,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,5100,120.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3500,168.0,3,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2500,152.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1275,47.0,3,5,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1450,75.0,3,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1000,60.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3250,120.0,1,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,850,55.0,4,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,50.0,2,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3250,120.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2500,126.0,2,0,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,750,34.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2800,190.0,2,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,5100,120.0,1,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,950,40.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1000,81.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3490,152.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1950,124.0,2,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3400,120.0,3,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2800,203.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1500,67.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1050,65.0,3,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1100,75.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,800,41.0,2,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2100,91.0,2,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1600,73.0,1,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,3400,120.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,650,45.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,750,30.0,1,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1550,76.0,1,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1200,90.0,2,6,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1200,60.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1550,70.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,895,55.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,750,47.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,950,40.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,950,40.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1100,66.0,2,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,550,40.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1100,65.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1400,100.0,1,7,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1100,60.0,1,2,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1850,70.0,3,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,800,40.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1450,100.0,2,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,900,65.0,1,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,800,35.0,3,3,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2600,160.0,3,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,1500,85.0,2,4,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2900,206.0,4,1,rent
+Madrid,Centro,40.42389,-3.6977,Justicia,2100,83.0,3,2,rent
+Madrid,Ciudad Lineal,40.43667,-3.64571,Quintana,750,35.0,1,2,rent
+Madrid,Ciudad Lineal,40.43667,-3.64571,Quintana,1200,83.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1250,65.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1400,80.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,895,41.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1650,70.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2700,240.0,4,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,925,60.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1250,105.0,1,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,875,59.0,1,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,950,73.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,750,41.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1200,94.0,2,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,975,60.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,750,45.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,725,39.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2550,165.0,3,4,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,895,41.0,1,4,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1800,150.0,1,4,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1449,58.0,3,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1300,98.0,1,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2200,100.0,2,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2000,220.0,2,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1275,90.0,3,3,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1150,62.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1350,90.0,2,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1750,58.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1950,120.0,4,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,900,40.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1100,70.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1250,60.0,1,4,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2800,340.0,1,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,990,65.0,3,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1250,80.0,1,3,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1400,79.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1150,60.0,4,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1300,66.0,4,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,2000,130.0,1,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1350,71.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1700,90.0,2,1,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1300,66.0,6,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1100,63.0,3,3,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1200,90.0,3,2,rent
+Madrid,Tetuán,40.46109,-3.69736,Castillejos,1500,149.0,2,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,700,42.0,1,0,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,650,37.0,1,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,850,55.0,3,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,700,57.0,2,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,850,78.0,2,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,700,57.0,1,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,995,90.0,2,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,725,50.0,3,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,650,45.0,3,0,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,700,45.0,2,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,825,50.0,5,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,600,41.0,3,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,715,60.0,1,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,650,31.0,1,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,650,48.0,2,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,590,40.0,3,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,800,56.0,3,2,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,600,43.0,1,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,750,46.0,2,1,rent
+Madrid,Puente de Vallecas,40.39786,-3.66776,Numancia,820,50.0,3,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,550,24.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,45.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,55.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,750,48.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,58.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2150,180.0,4,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,49.0,1,0,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,45.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,51.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1150,58.0,3,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,750,45.0,1,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,850,34.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,52.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,700,49.0,3,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1850,95.0,1,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,65.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2900,247.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,4500,200.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1450,80.0,1,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,790,40.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1200,70.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1550,60.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,850,60.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,900,51.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,855,50.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2000,125.0,1,0,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,65.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2800,180.0,3,0,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2800,212.0,4,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1500,100.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2500,150.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,750,1.0,3,0,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1500,78.0,3,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1650,70.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1750,65.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,975,63.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1200,65.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1050,80.0,1,5,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,850,50.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1350,60.0,4,3,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1350,90.0,1,3,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,65.0,3,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1600,1.0,2,0,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,950,52.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1600,80.0,4,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1400,80.0,2,3,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1450,105.0,3,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1500,95.0,6,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,750,45.0,1,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2500,141.0,3,4,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1300,65.0,1,5,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1500,116.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1100,40.0,3,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,7300,433.0,2,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,3500,350.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,800,40.0,2,3,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,680,29.0,2,1,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,1000,77.0,1,3,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2400,156.0,4,2,rent
+Madrid,Tetuán,40.45548,-3.69485,Cuatro Caminos,2650,214.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,2000,145.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,1500,135.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,850,50.0,2,0,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,850,50.0,1,0,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,2000,200.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,850,50.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,1450,100.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,2450,236.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,9000,750.0,4,3,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,795,45.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,1600,114.0,1,4,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,950,57.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,800,46.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,1650,142.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.44739,-3.71322,Ciudad Universitaria,4500,373.0,3,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,850,51.0,1,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1100,60.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,900,65.0,2,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,890,76.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,700,30.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,780,45.0,3,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,950,72.0,3,0,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1300,87.0,3,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,900,42.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,650,33.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,800,43.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1300,65.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1300,80.0,1,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,850,39.0,1,3,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,850,65.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,750,41.0,1,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1100,55.0,1,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,750,25.0,1,3,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,2500,166.0,3,3,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,650,30.0,3,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,790,42.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,835,44.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1100,50.0,3,5,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,750,38.0,3,4,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,2500,114.0,5,4,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,800,43.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1250,100.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1400,70.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1700,90.0,2,0,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,850,35.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,990,75.0,4,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,2150,130.0,4,3,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,750,29.0,2,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,800,55.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,2100,140.0,1,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,990,76.0,4,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,550,35.0,2,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,1650,128.0,3,1,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,650,35.0,2,3,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,995,70.0,3,2,rent
+Madrid,Tetuán,40.45227,-3.70346,Bellas Vistas,750,70.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,2200,182.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1100,85.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1200,60.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,900,80.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,950,65.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,850,45.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1500,115.0,1,5,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1300,3.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,2300,164.0,6,5,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,5500,360.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1500,55.0,1,0,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1390,140.0,4,0,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,850,90.0,3,3,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1300,55.0,5,2,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,3900,270.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,3300,280.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1650,55.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.42596,-3.7308,Casa de Campo,1200,65.0,2,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,825,56.0,1,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,950,70.0,1,3,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,825,60.0,1,3,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,1150,101.0,4,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,900,82.0,3,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,1095,100.0,3,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,625,40.0,4,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,850,58.0,1,1,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,800,50.0,3,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,1350,116.0,2,1,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,850,60.0,2,2,rent
+Madrid,Barajas,40.47557,-3.58331,Timón,895,105.0,1,1,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,3500,342.0,7,2,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,1250,93.0,2,1,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,3900,227.0,1,3,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,15000,1.25,3,6,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,3800,430.0,2,1,rent
+Madrid,Hortaleza,40.4534,-3.61353,Palomas,3000,70.0,1,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,1200,97.0,3,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,1000,53.0,2,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,800,70.0,2,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,850,40.0,1,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,850,80.0,3,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,1350,123.0,1,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,950,62.0,2,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,1200,83.0,2,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,1050,58.0,2,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,980,75.0,4,2,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,650,55.0,1,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,725,61.0,2,1,rent
+Madrid,Ciudad Lineal,40.43713,-3.65338,Concepción,800,50.0,1,5,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,750,50.0,1,5,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,750,65.0,1,0,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,1250,93.0,2,2,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,750,55.0,1,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,750,47.0,1,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,675,75.0,1,0,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,900,85.0,1,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,850,60.0,2,4,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,750,65.0,1,2,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,700,50.0,2,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,800,70.0,3,2,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,850,75.0,4,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,3500,400.0,3,1,rent
+Madrid,Barajas,40.47279,-3.57917,Casco Histórico de Barajas,800,80.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2700,274.0,3,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,80.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,60.0,0,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,875,63.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,750,40.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1650,60.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,790,41.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,51.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,775,47.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,825,32.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,38.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2150,113.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,900,50.0,4,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,790,30.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,900,35.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,70.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1195,60.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1200,76.0,0,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,50.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1500,80.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,50.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,925,78.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,65.0,2,0,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,50.0,1,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1950,132.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1200,72.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,56.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,770,40.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1500,70.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1300,72.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,3000,202.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1890,55.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,775,40.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,40.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,850,27.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1500,85.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,550,17.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,48.0,2,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,500,15.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1600,56.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2000,110.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1250,45.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1500,52.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,72.0,3,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1000,50.0,1,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1000,60.0,5,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,75.0,4,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1000,50.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,67.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1600,75.0,3,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,71.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,36.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,35.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,980,35.0,2,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,760,40.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,62.0,4,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1200,45.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2300,125.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,50.0,3,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,775,30.0,2,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,775,30.0,4,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1000,46.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2000,82.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,60.0,7,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1800,130.0,4,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,53.0,3,5,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1650,70.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,850,30.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1400,70.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2200,145.0,4,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2800,160.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1050,50.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1550,70.0,4,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1600,90.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,570,20.0,2,0,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2300,180.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1190,57.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,850,50.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,60.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1595,50.0,1,0,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,690,40.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1650,101.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,850,66.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,700,41.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1275,65.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1800,60.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,650,30.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,57.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,750,40.0,1,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1210,68.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,490,28.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,700,28.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1200,42.0,6,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,4800,240.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,65.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1200,60.0,1,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1800,153.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1800,110.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,985,63.0,4,7,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1000,67.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2500,140.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1600,110.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,64.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,4800,220.0,4,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2800,158.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2300,161.0,2,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,67.0,3,3,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2600,130.0,4,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1700,78.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1150,50.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2050,121.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1350,67.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,70.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2500,146.0,1,4,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2600,146.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1650,90.0,4,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1950,145.0,2,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1800,107.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2300,156.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,800,30.0,3,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,3000,200.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,49.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2200,65.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,2300,156.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1100,85.0,2,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1300,1.0,3,2,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,1300,60.0,1,1,rent
+Madrid,Centro,40.4257,-3.70383,Universidad,950,70.0,2,4,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,950,60.0,2,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,800,35.0,1,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,2700,172.0,4,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1500,61.0,1,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,700,30.0,2,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,950,57.0,2,3,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,3500,206.0,3,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,2000,151.0,1,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,2200,105.0,2,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1700,153.0,1,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1250,72.0,1,0,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,3300,252.0,1,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1700,117.0,2,0,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1500,107.0,4,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1395,97.0,1,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1350,2.0,1,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,850,38.0,2,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,900,1.0,1,3,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1400,72.0,2,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1100,48.0,2,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1200,50.0,1,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1700,83.0,1,1,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1500,85.0,2,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,1450,100.0,3,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,660,30.0,2,2,rent
+Madrid,Chamberí,40.44279,-3.71603,Vallehermoso,3700,252.0,4,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2200,120.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1100,50.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,287.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,890,35.0,1,4,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1275,58.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1680,75.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2450,135.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1350,90.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,950,45.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,80.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1050,55.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,950,75.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1800,120.0,4,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1250,55.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2450,130.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1300,60.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,0,90.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1600,95.0,1,0,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2200,112.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1200,55.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,112.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2950,194.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,8500,340.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1450,64.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,220.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2500,118.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2500,120.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,130.0,2,0,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2300,140.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2700,160.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,110.0,4,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3900,240.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1250,65.0,2,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1250,65.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2500,100.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,127.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,4500,280.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,4500,170.0,0,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3200,107.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1100,2.0,1,0,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1900,70.0,5,4,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,5500,456.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,920,60.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,925,45.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3000,120.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1900,114.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1100,55.0,0,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2900,180.0,4,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3200,161.0,1,5,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1900,98.0,4,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2500,165.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,90.0,4,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,5750,238.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1600,70.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1075,65.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2250,158.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2200,140.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3600,182.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3100,160.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,5500,450.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2000,120.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,57.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,85.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,287.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1350,85.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2500,140.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,4200,280.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,820,38.0,3,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2200,120.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1450,55.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1400,2.0,5,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2000,150.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3400,247.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,240.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1800,3.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,130.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2900,175.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,182.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1400,50.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,4200,280.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1000,64.0,2,6,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,10000,659.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2100,115.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,118.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,52.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3800,170.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1450,60.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,5500,196.0,1,4,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2100,102.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,850,38.0,6,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1800,75.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2100,134.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1900,80.0,5,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2900,190.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,4200,281.0,3,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3350,156.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2800,124.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2650,124.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2900,207.0,1,0,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2000,121.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2000,100.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1550,63.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1150,40.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,60.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,102.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1300,2.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2000,87.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1300,2.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1750,120.0,2,0,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2100,120.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2400,112.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1550,51.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1500,56.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,6500,220.0,1,3,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1350,85.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,5300,372.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2100,123.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,160.0,4,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2600,120.0,1,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1000,80.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1300,100.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2600,160.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,200.0,1,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1100,74.0,2,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1200,65.0,3,7,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,2800,150.0,3,1,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,3500,165.0,5,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1790,126.0,2,2,rent
+Madrid,Salamanca,40.4305,-3.68672,Castellana,1490,67.0,3,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,750,51.0,1,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,900,35.0,2,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1080,63.0,3,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1300,71.0,1,0,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1300,80.0,3,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1600,96.0,3,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1250,70.0,2,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,800,49.0,2,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,920,57.0,2,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,950,70.0,2,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,990,71.0,4,3,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1200,60.0,2,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,3500,250.0,2,3,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,790,58.0,1,3,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,3200,120.0,3,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1600,80.0,3,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,2600,199.0,3,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1400,75.0,1,1,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,1600,90.0,2,2,rent
+Madrid,Chamartín,40.44815,-3.67417,Ciudad Jardín,3500,250.0,1,3,rent
+Madrid,Usera,40.38151,-3.71476,Zofío,600,40.0,1,1,rent
+Madrid,Usera,40.38151,-3.71476,Zofío,1280,130.0,2,3,rent
+Madrid,Usera,40.38151,-3.71476,Zofío,1200,98.0,2,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1100,110.0,2,2,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,900,89.0,3,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,750,50.0,1,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,2000,200.0,2,0,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,950,86.0,1,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1200,100.0,1,3,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,825,62.0,3,2,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1500,133.0,1,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1100,106.0,2,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,775,57.0,1,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,930,40.0,2,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,900,95.0,2,2,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,930,45.0,1,3,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1200,65.0,3,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,850,100.0,4,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,750,66.0,2,1,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1060,65.0,2,2,rent
+Madrid,San Blas - Canillejas,40.44614,-3.5872,Rejas,1000,115.0,1,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,93.0,3,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,800,39.0,2,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,600,36.0,1,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1000,69.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,650,32.0,1,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1850,151.0,5,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1950,103.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,80.0,1,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,850,65.0,1,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,950,46.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1500,50.0,1,5,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,120.0,1,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,850,43.0,2,0,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,82.0,2,4,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,730,39.0,4,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1650,117.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,900,45.0,1,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1150,98.0,2,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,2000,150.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1450,97.0,3,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1400,90.0,1,3,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,85.0,3,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,800,60.0,2,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1200,70.0,2,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1600,95.0,7,2,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,6500,150.0,4,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1500,95.0,2,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,1400,85.0,7,1,rent
+Madrid,Retiro,40.4055,-3.68536,Pacífico,750,50.0,3,1,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,950,119.0,2,0,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,700,60.0,4,1,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,850,60.0,3,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,900,85.0,2,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,1100,84.0,1,1,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,780,55.0,2,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,700,50.0,3,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,750,47.0,1,1,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,850,65.0,3,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,700,35.0,4,3,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,850,84.0,5,3,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,700,52.0,3,5,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,750,52.0,3,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,700,56.0,2,2,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,800,89.0,2,1,rent
+Madrid,Ciudad Lineal,40.42739,-3.65618,Ventas,1200,110.0,3,1,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,600,25.0,1,2,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,1100,105.0,2,2,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,450,22.0,3,1,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,700,55.0,1,1,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,700,45.0,1,1,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,650,32.0,2,2,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,1300,100.0,3,1,rent
+Madrid,Carabanchel,40.37604,-3.73305,Abrantes,850,60.0,3,1,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,999,116.0,4,1,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,1150,101.0,3,4,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,830,86.0,4,6,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,934,100.0,5,1,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,855,86.0,4,3,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,909,100.0,2,2,rent
+Madrid,Vicálvaro,40.4012965,-3.5705848,El CaĖaveral,835,86.0,2,2,rent
+Madrid,Puente de Vallecas,40.38165,-3.65033,Palomeras Sureste,650,80.0,2,1,rent
+Madrid,Puente de Vallecas,40.38165,-3.65033,Palomeras Sureste,895,100.0,3,2,rent
+Madrid,Puente de Vallecas,40.38165,-3.65033,Palomeras Sureste,766,63.0,2,1,rent
+Madrid,Puente de Vallecas,40.38165,-3.65033,Palomeras Sureste,950,87.0,5,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,775,67.0,2,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,1100,105.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,875,55.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,1050,62.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,750,67.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,1000,71.0,4,5,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,950,74.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,1300,78.0,3,7,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,900,56.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,800,65.0,3,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,1100,76.0,4,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,875,60.0,2,4,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,800,60.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,840,75.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,830,60.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,950,80.0,4,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,2600,90.0,2,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,2200,190.0,4,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,3500,275.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,2000,130.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.4774,-3.71046,Pilar,3200,170.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,4300,180.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1600,145.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,750,45.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1400,103.0,5,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3995,180.0,1,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3995,200.0,4,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,5000,230.0,1,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3500,140.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3850,242.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1850,55.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3800,158.0,4,3,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3400,227.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1500,90.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,6000,312.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,925,54.0,1,4,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3900,255.0,3,0,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3000,200.0,1,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,2000,100.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1600,65.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,2100,174.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,8500,354.0,4,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,4300,236.0,5,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,3900,256.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,5700,263.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,5700,263.0,2,5,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,6000,263.0,3,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1400,98.0,2,2,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,1000,60.0,2,1,rent
+Madrid,Retiro,40.41835,-3.68955,Jerónimos,5500,312.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1650,106.0,3,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,800,35.0,1,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,900,63.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,700,45.0,2,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1095,58.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,2400,120.0,3,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1100,40.0,4,0,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1950,81.0,1,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1800,75.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,3000,173.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,800,40.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,2000,96.0,4,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1100,66.0,2,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1300,60.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1000,50.0,1,0,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1200,70.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,925,65.0,3,3,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,3100,182.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,950,65.0,3,0,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,980,45.0,1,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1700,2.0,5,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1100,77.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1300,85.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,2300,157.0,2,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,925,45.0,1,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,2150,143.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1000,45.0,3,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1700,110.0,1,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1900,136.0,3,3,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1150,75.0,1,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1450,80.0,1,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1200,55.0,6,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,2800,190.0,3,6,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,925,60.0,5,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1250,62.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1000,75.0,1,3,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,990,56.0,1,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,950,46.0,1,2,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1900,133.0,1,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1500,72.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1100,75.0,2,1,rent
+Madrid,Chamberí,40.42951,-3.7019,Trafalgar,1000,40.0,2,1,rent
+Madrid,Arganzuela,40.40152,-3.68443,Atocha,1250,83.0,2,1,rent
+Madrid,Arganzuela,40.40152,-3.68443,Atocha,1400,91.0,2,1,rent
+Madrid,Arganzuela,40.40152,-3.68443,Atocha,1800,148.0,2,3,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,2000,140.0,4,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,900,49.0,1,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1750,130.0,3,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1100,2.0,3,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,650,30.0,2,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,900,54.0,1,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1190,58.0,2,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1400,70.0,2,0,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,700,50.0,3,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1950,120.0,4,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1800,97.0,3,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1400,66.0,2,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1100,56.0,1,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1250,60.0,4,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1600,70.0,5,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1550,3.0,4,0,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1650,95.0,2,0,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,2230,3.0,3,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1700,68.0,2,4,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,850,55.0,1,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,875,55.0,3,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1350,68.0,1,8,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1150,70.0,3,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1050,1.0,2,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1200,80.0,1,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1600,88.0,2,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1100,65.0,3,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1500,80.0,2,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1250,70.0,1,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1150,70.0,3,6,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1100,75.0,1,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,775,40.0,2,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1600,79.0,1,4,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1250,60.0,3,2,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1300,90.0,3,6,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1300,50.0,1,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,950,59.0,1,1,rent
+Madrid,Chamberí,40.43187,-3.71149,Arapiles,1150,50.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1475,68.0,1,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1300,77.0,3,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,650,29.0,1,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,950,70.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,80.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,800,80.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2150,121.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1200,67.0,3,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,595,22.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,690,18.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,800,50.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1600,80.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,4500,140.0,3,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1250,41.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1345,58.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1000,80.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,53.0,0,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1345,58.0,4,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2950,180.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,850,40.0,3,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2050,120.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1400,103.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,45.0,4,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1625,92.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2350,91.0,3,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,800,56.0,5,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1800,55.0,4,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1300,60.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1240,53.0,1,0,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1390,75.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1075,52.0,2,4,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1350,37.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1075,52.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1250,30.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2800,165.0,2,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1350,45.0,4,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1800,90.0,1,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1100,54.0,1,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1250,50.0,4,0,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,71.0,3,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,2700,250.0,2,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,85.0,3,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1150,130.0,3,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,44.0,1,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1500,73.0,1,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1350,80.0,3,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1700,125.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,800,44.0,1,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,875,35.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1300,90.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1250,57.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1250,79.0,1,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1045,50.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1050,48.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1300,80.0,4,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1500,100.0,3,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,900,50.0,3,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1100,60.0,2,3,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,8500,263.0,2,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1385,100.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1100,52.0,2,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1200,53.0,1,1,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,1194,75.0,1,2,rent
+Madrid,Centro,40.41204,-3.6975,Cortes,840,32.0,4,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,750,80.0,0,4,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1100,70.0,0,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1250,53.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1100,75.0,2,0,rent
+Madrid,Centro,40.4156,-3.70415,Sol,750,30.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,900,50.0,3,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1800,71.0,2,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,3200,220.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,3000,217.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1500,62.0,1,0,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2600,168.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,850,55.0,4,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,3000,140.0,4,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1400,115.0,1,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2800,229.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1000,67.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,700,48.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1900,70.0,3,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,3000,102.0,4,4,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2900,220.0,2,4,rent
+Madrid,Centro,40.4156,-3.70415,Sol,900,55.0,5,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2800,200.0,3,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,800,60.0,3,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1150,80.0,3,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1000,47.0,5,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,800,65.0,1,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1600,70.0,1,4,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1050,69.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,850,55.0,1,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2800,228.0,4,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1500,98.0,2,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1250,75.0,3,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,3000,220.0,1,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,900,35.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1500,71.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1400,110.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1450,110.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1500,117.0,2,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1600,122.0,2,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1000,72.0,2,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1300,70.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1400,70.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1050,70.0,1,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1380,70.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1430,92.0,2,2,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1550,100.0,1,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1500,90.0,4,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,800,47.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,900,65.0,2,6,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1350,100.0,2,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,2000,128.0,2,3,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1850,70.0,1,1,rent
+Madrid,Centro,40.4156,-3.70415,Sol,1300,70.0,2,4,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1600,85.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,650,28.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1900,124.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1250,81.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1330,84.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2700,152.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2350,175.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,850,35.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1400,89.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,3600,150.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1600,76.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1600,85.0,3,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1200,73.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2500,137.0,3,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1600,95.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2300,175.0,2,3,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,5500,400.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,925,35.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1650,110.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,4000,250.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2900,148.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1150,3.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1290,71.0,4,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,900,1.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1500,100.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1680,4.0,0,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1660,111.0,1,4,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2800,80.0,4,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1090,3.0,3,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1150,68.0,3,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,900,58.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1190,2.0,5,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1400,3.0,4,3,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1690,4.0,3,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,2000,150.0,1,0,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,900,120.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1600,78.0,1,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,4100,207.0,1,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1090,71.0,2,1,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,1330,84.0,2,2,rent
+Madrid,Retiro,40.41999,-3.67493,Ibiza,900,42.0,1,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,900,64.0,1,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,1600,98.0,2,2,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,850,47.0,1,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,650,30.0,1,2,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,995,60.0,2,2,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,795,60.0,1,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,2130,120.0,1,3,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,750,55.0,3,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,3000,180.0,3,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,700,130.0,2,3,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,1200,107.0,4,2,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,890,34.0,1,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,1150,110.0,7,5,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,690,50.0,2,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,1250,89.0,2,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,1200,95.0,3,1,rent
+Madrid,Tetuán,40.45774,-3.70133,Berruguete,725,40.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,800,60.0,1,5,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,2390,150.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,990,60.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,2600,165.0,0,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1550,64.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1450,104.0,2,0,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1900,140.0,2,3,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1500,96.0,4,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1400,53.0,3,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1200,95.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,3300,332.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1600,135.0,1,11,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,950,45.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1350,70.0,2,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,3150,184.0,3,6,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1600,150.0,1,3,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1850,141.0,1,3,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1700,111.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1300,98.0,2,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1550,118.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1100,75.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,2450,180.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1000,45.0,3,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,950,60.0,1,3,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1850,141.0,2,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,3000,265.0,2,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1600,100.0,1,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1400,96.0,2,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1800,100.0,2,7,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,3500,358.0,7,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1850,133.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1200,60.0,2,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1200,89.0,3,2,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,990,90.0,3,1,rent
+Madrid,Chamartín,40.47734,-3.68417,Castilla,1100,65.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1200,70.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1800,168.0,3,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3450,237.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2500,130.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2200,100.0,2,4,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3500,205.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3300,221.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1500,76.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1200,33.0,2,4,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1500,118.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3500,240.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,140.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2750,140.0,3,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3000,160.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1450,80.0,4,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2950,170.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2400,202.0,2,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1800,150.0,2,7,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,110.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1800,90.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3400,180.0,4,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3000,170.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1100,70.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2700,170.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1600,60.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,4500,270.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1600,62.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3900,230.0,2,0,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,4200,270.0,4,5,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2850,145.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3900,280.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1100,55.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3850,135.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,73.0,3,0,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,65.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,5200,260.0,1,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,875,34.0,6,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,4000,170.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,7995,400.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1650,3.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1300,59.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1200,30.0,1,4,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1200,65.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1700,140.0,2,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1690,70.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1200,70.0,1,0,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,73.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,990,60.0,7,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1500,56.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2400,82.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1300,2.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,900,48.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1410,62.0,3,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1425,98.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1550,74.0,4,0,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,750,39.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1650,140.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1600,90.0,3,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,800,65.0,4,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,750,30.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3600,205.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3000,278.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1400,85.0,2,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2400,137.0,4,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3000,170.0,2,5,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1050,56.0,3,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1500,74.0,1,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,4500,348.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1600,90.0,5,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3300,182.0,5,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1950,120.0,1,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,670,40.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,925,60.0,2,5,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,4500,390.0,4,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3000,233.0,2,5,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,1850,85.0,2,3,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,3500,250.0,4,2,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,6000,300.0,2,1,rent
+Madrid,Chamberí,40.43616,-3.69833,Almagro,2100,110.0,2,2,rent
+Madrid,San Blas - Canillejas,40.44121,-3.63667,Salvador,5900,366.0,5,3,rent
+Madrid,San Blas - Canillejas,40.44121,-3.63667,Salvador,1350,142.0,4,1,rent
+Madrid,San Blas - Canillejas,40.44121,-3.63667,Salvador,1570,140.0,1,2,rent
+Madrid,San Blas - Canillejas,40.44121,-3.63667,Salvador,3500,300.0,1,1,rent
+Madrid,San Blas - Canillejas,40.44121,-3.63667,Salvador,950,70.0,3,3,rent
+Madrid,Moratalaz,40.41022,-3.65048,Marroquina,800,61.0,3,2,rent
+Madrid,Moratalaz,40.41022,-3.65048,Marroquina,750,50.0,1,5,rent
+Madrid,Moratalaz,40.41022,-3.65048,Marroquina,850,55.0,4,2,rent
+Madrid,Moratalaz,40.41022,-3.65048,Marroquina,800,50.0,2,2,rent
+Madrid,Moratalaz,40.41022,-3.65048,Marroquina,1100,95.0,3,0,rent
+Madrid,Villa de Vallecas,40.37057,-3.61511,Casco Histórico de Vallecas,750,67.0,2,1,rent
+Madrid,Villa de Vallecas,40.37057,-3.61511,Casco Histórico de Vallecas,810,53.0,3,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,925,55.0,2,0,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1300,108.0,3,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,900,60.0,2,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1700,135.0,1,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1000,50.0,1,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1390,114.0,1,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1700,75.0,1,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1200,116.0,2,4,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1100,90.0,3,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1200,80.0,2,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,900,65.0,3,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1000,50.0,4,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1350,85.0,4,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,900,75.0,2,2,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,1200,62.0,2,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,650,40.0,3,1,rent
+Madrid,Arganzuela,40.41327,-3.71866,Imperial,360,1.0,4,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,715,40.0,1,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,850,41.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,750,45.0,1,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1200,65.0,3,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,750,50.0,6,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1200,80.0,2,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,885,72.0,2,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1100,75.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1000,65.0,2,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,900,90.0,3,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,790,57.0,1,3,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,850,40.0,3,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,750,40.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,900,61.0,2,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,885,72.0,3,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1650,147.0,2,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,890,60.0,1,0,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,25.0,3,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1300,130.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,25.0,2,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,75.0,1,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1000,51.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,25.0,5,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,900,60.0,2,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,980,70.0,3,4,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,25.0,3,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,990,25.0,2,3,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1200,65.0,2,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1050,50.0,1,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1350,64.0,5,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,900,30.0,1,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,850,52.0,2,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1400,90.0,2,4,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1300,69.0,2,1,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,6000,350.0,3,2,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1200,100.0,2,5,rent
+Madrid,Tetuán,40.47077,-3.70091,Almenara,1150,104.0,4,3,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2250,155.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2250,155.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3000,296.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3500,286.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3600,264.0,2,3,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,6000,1.387,1,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2700,200.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2800,296.0,3,0,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2150,171.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2800,225.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3750,225.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,1100,60.0,5,3,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3000,190.0,3,4,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3000,190.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,1400,81.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2700,250.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,10000,1.3,2,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,800,55.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,2200,219.0,2,2,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,3500,350.0,5,1,rent
+Madrid,Moncloa - Aravaca,40.46468,-3.76699,Valdemarín,6500,1.1,3,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,700,35.0,1,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1100,85.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,875,70.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,900,55.0,1,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,750,55.0,2,3,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,750,45.0,4,2,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1000,77.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,875,48.0,3,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1000,53.0,6,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,700,37.0,2,0,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,790,35.0,4,2,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,650,40.0,1,2,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1190,55.0,1,3,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,450,21.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1180,96.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1350,100.0,3,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,650,65.0,1,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1200,91.0,2,3,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,1200,70.0,1,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,2700,150.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,850,47.0,3,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,750,50.0,2,1,rent
+Madrid,Tetuán,40.47147,-3.70293,Valdeacederas,990,60.0,3,2,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,1390,117.0,3,1,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,800,52.0,2,1,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,900,151.0,2,1,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,1100,90.0,2,1,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,700,75.0,4,1,rent
+Madrid,Usera,40.38303,-3.70265,Almendrales,695,50.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,1650,158.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,650,25.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,950,95.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,1400,90.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,2500,185.0,3,2,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,2550,98.0,2,1,rent
+Madrid,Fuencarral - El Pardo,40.57045,-3.89207,El Pardo,1190,120.0,3,6,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,4300,248.0,3,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1350,100.0,2,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1900,115.0,2,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1200,72.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,7500,520.0,3,3,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,3000,190.0,2,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2000,115.0,3,3,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1100,50.0,2,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1900,117.0,2,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1700,100.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,3500,260.0,8,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1000,53.0,2,3,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2500,70.0,1,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1550,90.0,2,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2500,150.0,2,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2100,125.0,2,4,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,4500,250.0,2,5,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,7500,522.0,2,3,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2100,117.0,3,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,9000,400.0,3,0,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2700,180.0,1,3,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,3800,220.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,4500,321.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1750,100.0,1,2,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,900,42.0,3,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1400,82.0,2,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,3200,250.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,2100,125.0,4,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1550,90.0,1,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1800,150.0,2,1,rent
+Madrid,Chamartín,40.44397,-3.68932,El Viso,1400,85.0,3,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2700,140.0,3,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,900,57.0,3,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1600,88.0,3,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1620,70.0,4,3,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,4500,250.0,4,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2500,111.0,2,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1550,70.0,3,3,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1200,96.0,1,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2000,112.0,1,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2500,140.0,2,4,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2250,130.0,3,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,800,42.0,1,4,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1350,76.0,2,0,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,3950,262.0,2,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,990,62.0,2,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,2200,180.0,1,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1000,72.0,2,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1100,84.0,2,1,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,1500,108.0,4,2,rent
+Madrid,Retiro,40.40521,-3.67048,Adelfas,595,35.0,4,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,850,74.0,3,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,750,80.0,1,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,800,59.0,2,2,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,700,59.0,1,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,1200,72.0,2,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,790,64.0,2,2,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,780,53.0,3,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,1350,87.0,3,1,rent
+Madrid,Carabanchel,40.38077,-3.73497,Puerta Bonita,830,110.0,3,3,rent
+Madrid,Moratalaz,40.40131,-3.64457,Fontarrón,800,60.0,2,0,rent
+Madrid,Moratalaz,40.40131,-3.64457,Fontarrón,750,65.0,1,1,rent
+Madrid,Moratalaz,40.40131,-3.64457,Fontarrón,775,70.0,3,1,rent
+Madrid,Moratalaz,40.40131,-3.64457,Fontarrón,850,76.0,3,1,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,775,60.0,2,2,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,850,54.0,2,1,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,650,34.0,2,1,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,710,2.0,1,2,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,750,50.0,5,1,rent
+Madrid,Carabanchel,40.39587,-3.71356,Comillas,1760,62.0,2,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,1000,66.0,1,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,1200,85.0,3,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,800,65.0,2,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,1150,65.0,1,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,750,75.0,1,1,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,850,75.0,3,2,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,1150,120.0,2,2,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,900,75.0,6,2,rent
+Madrid,Latina,40.40182,-3.75334,Lucero,860,50.0,5,1,rent
+Madrid,San Blas - Canillejas,40.43796,-3.60738,Canillejas,940,97.0,2,2,rent
+Madrid,San Blas - Canillejas,40.43796,-3.60738,Canillejas,795,70.0,2,1,rent
+Madrid,San Blas - Canillejas,40.43796,-3.60738,Canillejas,900,67.0,1,1,rent
+Madrid,San Blas - Canillejas,40.43796,-3.60738,Canillejas,725,60.0,5,1,rent
+Madrid,San Blas - Canillejas,40.43796,-3.60738,Canillejas,700,65.0,2,2,rent
+Madrid,Vicálvaro,40.40378,-3.59328,Ambroz,700,56.0,2,2,rent
+Madrid,Vicálvaro,40.40378,-3.59328,Ambroz,700,57.0,3,2,rent
+Madrid,Vicálvaro,40.40378,-3.59328,Ambroz,795,65.0,1,1,rent
+Madrid,Latina,40.39786,-3.76865,Campamento,995,120.0,3,1,rent
+Madrid,Latina,40.39786,-3.76865,Campamento,1150,53.0,2,1,rent
+Madrid,Latina,40.39786,-3.76865,Campamento,860,75.0,3,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1000,2.0,1,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1650,60.0,2,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,750,32.0,1,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1950,135.0,4,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2100,150.0,3,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1300,58.0,3,0,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,900,45.0,2,0,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1000,55.0,1,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1000,46.0,3,4,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,950,61.0,1,0,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,950,55.0,6,0,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,950,60.0,3,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,6000,436.0,1,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,950,1.0,3,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2250,130.0,2,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1390,84.0,7,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2100,150.0,1,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2750,151.0,4,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1000,70.0,1,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2000,138.0,1,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,850,50.0,3,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,950,65.0,1,2,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1700,145.0,3,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,775,50.0,2,5,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1000,74.0,2,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2400,155.0,3,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2100,150.0,5,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1300,55.0,2,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,1600,150.0,4,1,rent
+Madrid,Chamberí,40.43344,-3.7146,Gaztambide,2200,140.0,2,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,725,62.0,2,0,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,800,70.0,2,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,525,33.0,3,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,600,32.0,2,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,995,63.0,1,2,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,550,45.0,2,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,700,42.0,1,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,650,60.0,1,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,580,45.0,2,1,rent
+Madrid,Puente de Vallecas,40.38781,-3.66736,San Diego,750,100.0,3,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,750,46.0,2,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,1050,80.0,2,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,850,70.0,1,2,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,775,55.0,2,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,650,38.0,3,2,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,1200,110.0,1,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,1400,130.0,1,1,rent
+Madrid,Latina,40.39577,-3.75985,Aluche,700,66.0,2,2,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,899,57.0,3,1,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,900,94.0,2,2,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,850,90.0,2,1,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,780,62.0,2,1,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,800,80.0,4,1,rent
+Madrid,Villaverde,40.35773,-3.69558,Los Angeles,775,110.0,2,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,950,72.0,2,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,1100,89.0,2,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,931,55.0,1,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,1160,112.0,4,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,600,37.0,1,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,1400,111.0,1,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,1050,105.0,1,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,550,50.0,1,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,4500,600.0,3,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,1575,3.0,1,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,5500,500.0,4,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,650,39.0,1,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,900,79.0,2,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,900,45.0,4,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,9000,500.0,2,1,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,450,120.0,3,2,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,850,40.0,2,6,rent
+Madrid,Hortaleza,40.46211,-3.64909,Canillas,950,100.0,1,1,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,1500,121.0,2,1,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,1600,171.0,1,3,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,3300,347.0,4,1,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,1250,128.0,2,1,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,1250,98.0,2,4,rent
+Madrid,Barajas,40.45771,-3.58661,Alameda de Osuna,1250,105.0,3,1,rent
+Madrid,Latina,40.40466,-3.72329,Cármenes,1200,110.0,3,1,rent
+Madrid,Latina,40.40466,-3.72329,Cármenes,850,94.0,2,1,rent
+Madrid,Latina,40.40466,-3.72329,Cármenes,1995,125.0,1,3,rent
+Madrid,Latina,40.40466,-3.72329,Cármenes,720,32.0,7,1,rent
+Madrid,Latina,40.40466,-3.72329,Cármenes,880,83.0,2,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,2700,148.0,2,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1350,66.0,5,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1500,115.0,2,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1350,110.0,5,0,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,6000,450.0,2,2,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1100,65.0,1,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,4000,338.0,2,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,5200,400.0,3,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,950,55.0,1,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,4000,430.0,2,2,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1750,130.0,1,5,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,3750,317.0,1,5,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,1250,90.0,1,4,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,2300,150.0,3,1,rent
+Madrid,Hortaleza,40.46034,-3.63108,Piovera,5500,640.0,2,1,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,600,40.0,4,2,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,700,50.0,1,3,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,650,63.0,3,2,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,840,74.0,2,1,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,890,74.0,2,1,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,770,69.0,2,2,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,680,57.0,2,2,rent
+Madrid,Villaverde,40.34322,-3.69311,San Andrés,650,60.0,1,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,1500,125.0,4,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,1160,75.0,4,2,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,1650,97.0,2,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,1200,115.0,3,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,1150,120.0,2,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,900,75.0,5,1,rent
+Madrid,Hortaleza,40.4880246,-3.6674881,Manoteras,630,50.0,6,2,rent
+Madrid,Usera,40.36851,-3.69182,San Fermín,650,80.0,2,1,rent
+Madrid,Usera,40.36851,-3.69182,San Fermín,830,85.0,2,2,rent
+Madrid,Usera,40.36851,-3.69182,San Fermín,1100,100.0,2,1,rent
+Madrid,Usera,40.36851,-3.69182,San Fermín,850,83.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,1100,65.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,800,50.0,2,4,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2400,155.0,3,2,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,1000,83.0,4,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2975,192.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2850,220.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2430,172.0,1,2,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2300,153.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2200,135.0,5,2,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2100,144.0,2,0,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2300,153.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2300,153.0,1,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,2200,138.0,3,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,1800,150.0,2,1,rent
+Madrid,Moncloa - Aravaca,40.46082,-3.78209,Aravaca,14000,1.0,2,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,675,35.0,2,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,620,33.0,1,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,775,68.0,2,4,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,685,54.0,2,3,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,810,69.0,1,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,700,35.0,1,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,800,70.0,1,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,900,85.0,2,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,775,68.0,4,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,685,56.0,3,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,700,29.0,2,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,765,94.0,2,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,800,70.0,2,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,970,65.0,3,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,850,72.0,2,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,675,38.0,3,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,690,38.0,22,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,765,93.0,3,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,870,59.0,4,3,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,700,40.0,3,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,659,52.0,1,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,1050,77.0,3,2,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,750,60.0,1,1,rent
+Madrid,Villa de Vallecas,40.374217,-3.6309669,Valdecarros,741,93.0,3,2,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,1355,115.0,3,0,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,1600,108.0,1,0,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,2500,160.0,2,2,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,2600,180.0,1,2,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,2800,198.0,4,2,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,1300,93.0,2,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,2200,165.0,5,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,3600,260.0,4,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,3200,255.0,3,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,3200,240.0,2,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,1650,144.0,1,2,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,1250,107.0,3,1,rent
+Madrid,Hortaleza,40.48556,-3.66573,Valdefuentes,3500,600.0,1,2,rent
+Madrid,Moratalaz,40.40487,-3.64915,Vinateros,750,72.0,2,1,rent
+Madrid,Moratalaz,40.40487,-3.64915,Vinateros,700,65.0,2,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1150,70.0,1,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1095,65.0,1,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1250,60.0,5,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1200,87.0,2,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1300,90.0,1,4,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1600,108.0,1,1,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,1750,165.0,2,2,rent
+Madrid,Arganzuela,40.38999,-3.69111,Legazpi,890,50.0,4,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1100,84.0,2,2,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,2350,220.0,3,0,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1800,150.0,2,2,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1000,65.0,1,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1900,180.0,2,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,950,60.0,3,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1050,50.0,3,4,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1200,105.0,1,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1300,72.0,1,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,825,50.0,2,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1800,169.0,2,2,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,2700,240.0,2,3,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,1390,98.0,2,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,770,50.0,2,1,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,950,60.0,3,2,rent
+Madrid,Ciudad Lineal,40.47655,-3.67078,Costillares,4900,360.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1200,78.0,1,1,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,900,50.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1350,124.0,1,2,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1100,88.0,3,3,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1350,120.0,4,1,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1300,97.0,2,0,rent
+Madrid,Fuencarral - El Pardo,40.50995,-3.70727,Montecarmelo,1250,89.0,1,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,2200,140.0,2,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,870,70.0,2,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,1500,120.0,4,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,2000,142.0,3,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,2800,240.0,3,2,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,2100,140.0,2,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,890,90.0,1,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,1550,138.0,3,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,2500,550.0,3,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,750,65.0,1,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,795,65.0,2,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,1800,156.0,1,1,rent
+Madrid,Hortaleza,40.47734,-3.65076,Pinar del Rey,790,67.0,2,1,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,750,60.0,1,2,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,550,24.0,3,2,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,700,60.0,1,1,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,790,55.0,2,1,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,650,55.0,3,2,rent
+Madrid,Puente de Vallecas,40.37921,-3.65801,Palomeras Bajas,750,2.0,3,1,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,2100,167.0,1,1,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,1950,152.0,2,1,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,1900,135.0,2,2,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,1800,147.0,2,3,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,1600,105.0,4,0,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,1050,108.0,2,1,rent
+Madrid,Retiro,40.41787,-3.6677,Estrella,3300,230.0,4,1,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,950,60.0,1,2,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,1100,67.0,2,1,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,670,30.0,1,1,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,1000,60.0,1,2,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,800,50.0,3,0,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,1400,97.0,1,0,rent
+Madrid,Arganzuela,40.39445,-3.69626,Chopera,850,50.0,3,5,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,900,140.0,2,1,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,850,86.0,2,2,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,830,80.0,3,1,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,630,80.0,2,4,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,670,55.0,3,3,rent
+Madrid,Villaverde,40.35892,-3.69022,Los Rosales,660,60.0,1,1,rent
+Madrid,Usera,40.36624,-3.71783,Orcasitas,850,80.0,2,2,rent
+Madrid,Usera,40.36624,-3.71783,Orcasitas,950,75.0,2,4,rent
+Madrid,Usera,40.36624,-3.71783,Orcasitas,1200,120.0,1,1,rent
+Madrid,Barajas,40.498534,-3.544844145,Aeropuerto,775,60.0,1,1,rent
+Madrid,Barajas,40.498534,-3.544844145,Aeropuerto,850,56.0,2,1,rent
+Madrid,Barajas,40.498534,-3.544844145,Aeropuerto,5000,650.0,3,1,rent
+Madrid,Barajas,40.498534,-3.544844145,Aeropuerto,3900,360.0,2,3,rent
+Madrid,Barajas,40.498534,-3.544844145,Aeropuerto,1600,135.0,5,1,rent
+Madrid,Moratalaz,40.39647,-3.6345,Pavones,1200,160.0,2,1,rent
+Madrid,Moratalaz,40.39647,-3.6345,Pavones,950,92.0,3,1,rent
+Madrid,Barajas,40.46463,-3.59633,Corralejos,1350,120.0,3,1,rent
+Madrid,Barajas,40.46463,-3.59633,Corralejos,1195,87.0,2,1,rent
+Madrid,Barajas,40.46463,-3.59633,Corralejos,1300,113.0,1,2,rent
+Madrid,Barajas,40.46463,-3.59633,Corralejos,950,46.0,2,2,rent
+Madrid,Moratalaz,40.40929,-3.65965,Media Legua,750,60.0,2,1,rent
+Madrid,Latina,40.36889,-3.76404,Cuatro Vientos,900,100.0,1,1,rent
+Madrid,Latina,40.36889,-3.76404,Cuatro Vientos,950,80.0,5,1,rent
+Madrid,Ciudad Lineal,40.45694,-3.65955,Colina,650,35.0,4,2,rent
+Madrid,Ciudad Lineal,40.45694,-3.65955,Colina,700,55.0,5,2,rent
+Madrid,Ciudad Lineal,40.45694,-3.65955,Colina,2500,280.0,2,3,rent
+Madrid,Ciudad Lineal,40.45694,-3.65955,Colina,1700,1.7,3,1,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,3500,400.0,2,2,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,2000,135.0,3,2,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,1000,74.0,5,0,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,875,39.0,3,1,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,2200,130.0,1,2,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,1995,220.0,3,3,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,1100,90.0,1,2,rent
+Madrid,Ciudad Lineal,40.45393,-3.65571,San Juan Bautista,900,80.0,1,1,rent
+Madrid,Villa de Vallecas,40.38207,-3.60721,Santa Eugenia,900,90.0,1,1,rent
+Madrid,Villa de Vallecas,40.38207,-3.60721,Santa Eugenia,895,90.0,2,1,rent
+Madrid,Ciudad Lineal,40.44379,-3.64932,San Pascual,800,60.0,2,0,rent
+Madrid,Ciudad Lineal,40.44379,-3.64932,San Pascual,750,60.0,2,1,rent
+Madrid,Ciudad Lineal,40.44379,-3.64932,San Pascual,1700,130.0,2,2,rent
+Madrid,Ciudad Lineal,40.44379,-3.64932,San Pascual,750,40.0,1,0,rent
+Madrid,Ciudad Lineal,40.44379,-3.64932,San Pascual,850,42.0,1,1,rent
+Madrid,Usera,40.36987,-3.6999,Orcasur,1000,96.0,4,1,rent
+Madrid,Usera,40.36987,-3.6999,Orcasur,700,45.0,4,2,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,1050,70.0,1,3,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,725,50.0,1,1,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,950,80.0,2,1,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,895,90.0,1,2,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,775,74.0,2,5,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,820,71.0,3,2,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,700,49.0,1,1,rent
+Madrid,Carabanchel,40.39936,-3.73334,San Isidro,690,46.0,1,2,rent
+Madrid,Puente de Vallecas,40.39099,-3.64491,Portazgo,654,50.0,3,1,rent
+Madrid,Carabanchel,40.3729752,-3.7397766,Pau de Carabanchel,715,55.0,1,1,rent
+Madrid,Carabanchel,40.3729752,-3.7397766,Pau de Carabanchel,855,70.0,3,1,rent
+Madrid,Carabanchel,40.3729752,-3.7397766,Pau de Carabanchel,725,84.0,2,1,rent
+Madrid,Carabanchel,40.3729752,-3.7397766,Pau de Carabanchel,815,70.0,2,4,rent
+Madrid,Vicálvaro,40.3963069,-3.6256452,Valdebernardo,1200,108.0,2,2,rent
+Madrid,Vicálvaro,40.3963069,-3.6256452,Valdebernardo,791,75.0,3,1,rent
+Madrid,Vicálvaro,40.3963069,-3.6256452,Valdebernardo,950,110.0,2,3,rent
+Madrid,Puente de Vallecas,40.379,-3.67423,Entrevías,630,80.0,1,1,rent
+Madrid,Carabanchel,40.36127,-3.7605,Buenavista,710,56.0,2,3,rent
+Madrid,Carabanchel,40.36127,-3.7605,Buenavista,799,103.0,1,1,rent
+Madrid,Carabanchel,40.36127,-3.7605,Buenavista,800,60.0,2,2,rent
+Madrid,Carabanchel,40.36127,-3.7605,Buenavista,690,54.0,3,1,rent
+Madrid,Villaverde,40.34322,-3.68351,Butarque,695,65.0,1,2,rent
+Madrid,Ciudad Lineal,40.46349,-3.66654,Atalaya,1240,95.0,1,1,rent
+Madrid,Moratalaz,40.40611,-3.6301,Horcajo,935,93.0,1,1,rent
+Madrid,Moratalaz,40.40611,-3.6301,Horcajo,885,103.0,2,2,rent
+Madrid,Villaverde,40.34326,-3.6875,San Cristobal,630,60.0,2,1,rent
+Madrid,Villaverde,40.34326,-3.6875,San Cristobal,660,43.0,2,1,rent
+Madrid,Villaverde,40.34326,-3.6875,San Cristobal,680,64.0,2,1,rent
+Madrid,Villaverde,40.34326,-3.6875,San Cristobal,595,60.0,1,1,rent
